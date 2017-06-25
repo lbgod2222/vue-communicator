@@ -1,35 +1,14 @@
-<<<<<<< HEAD
-# vue-debug
+# 这是一个基于VUE2.0的仿QQ的通讯框架，内容有待补充
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# vue-communicator
-Vue 驱动通讯工具
->>>>>>> d4fd943ca4ef74f293488079512557bd88f12d71
+## 技术栈：
+* VUE（vue-cli构建）
+* 这也就意味着： webpack 构建，自加入了babel转换eslint纠错karma/mocha自动化测试
+* vue-router 作为路由器
+* vuex 作为数据控制
+* PHP + mysql 作为后端支持
+* 大部分语义书写采用了ES6标准
+## 已完成部分：
+* 首页构建：头部、底部、消息列表、侧边栏（状态）
+* 消息收发页：逻辑、数据处理功能
+* 细节：滑动删除
+## 需要注意的是尚处于开发阶段，许多问题待完善
