@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-debug
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-communicator
+Vue 驱动通讯工具
+>>>>>>> d4fd943ca4ef74f293488079512557bd88f12d71
